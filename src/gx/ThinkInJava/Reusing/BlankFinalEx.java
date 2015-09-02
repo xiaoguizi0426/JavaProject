@@ -1,5 +1,6 @@
 package gx.ThinkInJava.Reusing;
 /*
+ * REUSING.19
  * 创建一个含有指向某对象的空白final引用的类。在所有构造器内部都执行空白
  * final的初始化动作。说明Java确保final在使用前必须被初始化，且一旦被
  * 初始化即无法改变。

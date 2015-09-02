@@ -1,5 +1,6 @@
 package gx.ThinkInJava.Reusing;
 /*
+ * REUSING.18
  * 创建一个含有static final域和final域的类，说明二者间的区别 
  * answer:被static final定义的变量的值是不会因为通过创建第二个对象
  * 而加以改变的，这是因为static的变量在类装载时已被初始化，而不是每次
