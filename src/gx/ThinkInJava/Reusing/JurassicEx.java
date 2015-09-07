@@ -1,5 +1,6 @@
 package gx.ThinkInJava.Reusing;
 /*
+ * REUSING.22
  * 创建一个final类并试着继承它
  */
 class SmallBrain{}
