@@ -1,5 +1,7 @@
 package gx.ThinkInJava.Polymorphism;
-
+/*
+ * Polymorphism.15
+ */
 class Glyph{
 	void draw(){
 		System.out.println("Glyph.draw()");
