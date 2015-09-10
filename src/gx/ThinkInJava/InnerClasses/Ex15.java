@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.15
+ * InnerClasses.15
  * 创建一个类，有非默认的构造器，并且没有默认构造器。创建第二个类，
  * 它包含一个方法，能够返回对第一个类的对象的引用。通过写一个继承自
  * 第一个类的匿名内部类，来创建一个返回对象。

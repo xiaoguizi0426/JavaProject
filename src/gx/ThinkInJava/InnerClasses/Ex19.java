@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.19
+ * InnerClasses.19
  * 创建了一个包含了内部类的类，而此内部类又包含有内部类。使用嵌套类重复
  * 这个过程。注意编译器生成的.class文件的名字。
  */

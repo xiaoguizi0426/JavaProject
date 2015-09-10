@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.18
+ * InnerClasses.18
  * 创建一个包含嵌套类的类。在main()中创建其内部类的实例。
  */
 public class Ex18 {

@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.20
+ * InnerClasses.20
  * 创建一个包含嵌套类的接口，实现此接口并创建嵌套类的实例。
  */
 interface In {

@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.14
+ * InnerClasses.14
  */
 interface Monster {
 	void menace();

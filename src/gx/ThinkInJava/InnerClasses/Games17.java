@@ -3,7 +3,7 @@ package gx.ThinkInJava.InnerClasses;
 import java.util.Random;
 
 /*
- * Interfaces.17
+ * InnerClasses.17
  */
 interface Games {
 	void play();

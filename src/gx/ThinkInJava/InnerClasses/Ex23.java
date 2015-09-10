@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.23
+ * InnerClasses.23
  */
 interface U {
 	void f();

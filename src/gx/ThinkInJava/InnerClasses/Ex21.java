@@ -1,6 +1,6 @@
 //package gx.ThinkInJava.InnerClasses;
 ///*
-// * Interfaces.21
+// * InnerClasses.21
 // * 创建一个包含嵌套类的接口，该嵌套类中有一个static方法，它将调用接口中的方法并显示结果。
 // * 实现这个接口，并将这个实现的一个实例传递给这个方法。
 // */

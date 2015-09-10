@@ -1,6 +1,6 @@
 package gx.ThinkInJava.InnerClasses;
 /*
- * Interfaces.16
+ * InnerClasses.16
  */
 interface Cycle {
 	void ride();
