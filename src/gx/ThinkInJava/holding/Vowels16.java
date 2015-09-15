@@ -1,4 +1,4 @@
-package gx.ThinkInJava.holding;
+package gx.ThinkInJava.Holding;
 
 import java.util.Collections;
 import java.util.Set;
